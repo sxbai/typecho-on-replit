@@ -4,3 +4,4 @@
 ```
 bash <(curl -s https://raw.githubusercontent.com/sxbai/typecho-on-replit/master/install.sh)
 ```
+默认请使用sqlite数据库
